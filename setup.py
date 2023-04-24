@@ -330,3 +330,5 @@ setup(
         "build_ext": BuildMemray,
     },
 )
+
+print("Hello world!")
